@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "RecipeCollectionViewController.h"
 
 @interface ViewController ()
 

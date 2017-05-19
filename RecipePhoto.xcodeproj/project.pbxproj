@@ -15,6 +15,16 @@
 		F239CC641ECDDC4000BA741E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F239CC621ECDDC4000BA741E /* LaunchScreen.storyboard */; };
 		F239CC6F1ECDDC4000BA741E /* RecipePhotoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F239CC6E1ECDDC4000BA741E /* RecipePhotoTests.m */; };
 		F239CC7A1ECDDC4000BA741E /* RecipePhotoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F239CC791ECDDC4000BA741E /* RecipePhotoUITests.m */; };
+		F239CC891ECDDEDF00BA741E /* RecipeCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F239CC881ECDDEDF00BA741E /* RecipeCollectionViewController.m */; };
+		F239CC911ECDE57500BA741E /* angry_birds_cake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F239CC8A1ECDE57500BA741E /* angry_birds_cake.jpg */; };
+		F239CC921ECDE57500BA741E /* angry_birds_cake1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F239CC8B1ECDE57500BA741E /* angry_birds_cake1.jpg */; };
+		F239CC931ECDE57500BA741E /* angry_birds_cake2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F239CC8C1ECDE57500BA741E /* angry_birds_cake2.jpg */; };
+		F239CC941ECDE57500BA741E /* angry_birds_cake3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F239CC8D1ECDE57500BA741E /* angry_birds_cake3.jpg */; };
+		F239CC951ECDE57500BA741E /* angry_birds_cake4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F239CC8E1ECDE57500BA741E /* angry_birds_cake4.jpg */; };
+		F239CC961ECDE57500BA741E /* angry_birds_cake5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F239CC8F1ECDE57500BA741E /* angry_birds_cake5.jpg */; };
+		F239CC971ECDE57500BA741E /* angry_birds_cake6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F239CC901ECDE57500BA741E /* angry_birds_cake6.jpg */; };
+		F239CD331ECF4D6400BA741E /* PhotosViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F239CD321ECF4D6400BA741E /* PhotosViewCell.m */; };
+		F239CD351ECF554300BA741E /* photo-frame.png in Resources */ = {isa = PBXBuildFile; fileRef = F239CD341ECF554300BA741E /* photo-frame.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +61,18 @@
 		F239CC751ECDDC4000BA741E /* RecipePhotoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RecipePhotoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F239CC791ECDDC4000BA741E /* RecipePhotoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RecipePhotoUITests.m; sourceTree = "<group>"; };
 		F239CC7B1ECDDC4000BA741E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F239CC871ECDDEDF00BA741E /* RecipeCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeCollectionViewController.h; sourceTree = "<group>"; };
+		F239CC881ECDDEDF00BA741E /* RecipeCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeCollectionViewController.m; sourceTree = "<group>"; };
+		F239CC8A1ECDE57500BA741E /* angry_birds_cake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = angry_birds_cake.jpg; sourceTree = "<group>"; };
+		F239CC8B1ECDE57500BA741E /* angry_birds_cake1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = angry_birds_cake1.jpg; sourceTree = "<group>"; };
+		F239CC8C1ECDE57500BA741E /* angry_birds_cake2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = angry_birds_cake2.jpg; sourceTree = "<group>"; };
+		F239CC8D1ECDE57500BA741E /* angry_birds_cake3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = angry_birds_cake3.jpg; sourceTree = "<group>"; };
+		F239CC8E1ECDE57500BA741E /* angry_birds_cake4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = angry_birds_cake4.jpg; sourceTree = "<group>"; };
+		F239CC8F1ECDE57500BA741E /* angry_birds_cake5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = angry_birds_cake5.jpg; sourceTree = "<group>"; };
+		F239CC901ECDE57500BA741E /* angry_birds_cake6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = angry_birds_cake6.jpg; sourceTree = "<group>"; };
+		F239CD311ECF4D6400BA741E /* PhotosViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhotosViewCell.h; sourceTree = "<group>"; };
+		F239CD321ECF4D6400BA741E /* PhotosViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhotosViewCell.m; sourceTree = "<group>"; };
+		F239CD341ECF554300BA741E /* photo-frame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo-frame.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +128,10 @@
 				F239CC5A1ECDDC4000BA741E /* ViewController.h */,
 				F239CC5B1ECDDC4000BA741E /* ViewController.m */,
 				F239CC5D1ECDDC4000BA741E /* Main.storyboard */,
+				F239CD311ECF4D6400BA741E /* PhotosViewCell.h */,
+				F239CD321ECF4D6400BA741E /* PhotosViewCell.m */,
+				F239CC871ECDDEDF00BA741E /* RecipeCollectionViewController.h */,
+				F239CC881ECDDEDF00BA741E /* RecipeCollectionViewController.m */,
 				F239CC601ECDDC4000BA741E /* Assets.xcassets */,
 				F239CC621ECDDC4000BA741E /* LaunchScreen.storyboard */,
 				F239CC651ECDDC4000BA741E /* Info.plist */,
@@ -117,6 +143,14 @@
 		F239CC541ECDDC4000BA741E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F239CD341ECF554300BA741E /* photo-frame.png */,
+				F239CC8A1ECDE57500BA741E /* angry_birds_cake.jpg */,
+				F239CC8B1ECDE57500BA741E /* angry_birds_cake1.jpg */,
+				F239CC8C1ECDE57500BA741E /* angry_birds_cake2.jpg */,
+				F239CC8D1ECDE57500BA741E /* angry_birds_cake3.jpg */,
+				F239CC8E1ECDE57500BA741E /* angry_birds_cake4.jpg */,
+				F239CC8F1ECDE57500BA741E /* angry_birds_cake5.jpg */,
+				F239CC901ECDE57500BA741E /* angry_birds_cake6.jpg */,
 				F239CC551ECDDC4000BA741E /* main.m */,
 			);
 			name = "Supporting Files";
@@ -246,9 +280,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F239CC951ECDE57500BA741E /* angry_birds_cake4.jpg in Resources */,
+				F239CC931ECDE57500BA741E /* angry_birds_cake2.jpg in Resources */,
 				F239CC641ECDDC4000BA741E /* LaunchScreen.storyboard in Resources */,
 				F239CC611ECDDC4000BA741E /* Assets.xcassets in Resources */,
 				F239CC5F1ECDDC4000BA741E /* Main.storyboard in Resources */,
+				F239CC941ECDE57500BA741E /* angry_birds_cake3.jpg in Resources */,
+				F239CC961ECDE57500BA741E /* angry_birds_cake5.jpg in Resources */,
+				F239CC921ECDE57500BA741E /* angry_birds_cake1.jpg in Resources */,
+				F239CC971ECDE57500BA741E /* angry_birds_cake6.jpg in Resources */,
+				F239CD351ECF554300BA741E /* photo-frame.png in Resources */,
+				F239CC911ECDE57500BA741E /* angry_birds_cake.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +315,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F239CC891ECDDEDF00BA741E /* RecipeCollectionViewController.m in Sources */,
 				F239CC5C1ECDDC4000BA741E /* ViewController.m in Sources */,
+				F239CD331ECF4D6400BA741E /* PhotosViewCell.m in Sources */,
 				F239CC591ECDDC4000BA741E /* AppDelegate.m in Sources */,
 				F239CC561ECDDC4000BA741E /* main.m in Sources */,
 			);
@@ -507,6 +551,7 @@
 				F239CC801ECDDC4000BA741E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F239CC811ECDDC4000BA741E /* Build configuration list for PBXNativeTarget "RecipePhotoTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +560,7 @@
 				F239CC831ECDDC4000BA741E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F239CC841ECDDC4000BA741E /* Build configuration list for PBXNativeTarget "RecipePhotoUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +569,7 @@
 				F239CC861ECDDC4000BA741E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
